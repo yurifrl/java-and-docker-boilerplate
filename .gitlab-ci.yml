@@ -1,2 +1,4 @@
-before_script:
- mvn -v
+image: maven:3-jdk-7
+
+build:
+  script: "mvn install -B"
