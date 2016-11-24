@@ -1,2 +1,2 @@
-script:
-  mvn -v
+before_script:
+ mvn -v
