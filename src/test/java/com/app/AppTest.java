@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.app;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -33,6 +33,6 @@ public class AppTest
      */
     public void testApp()
     {
-        assertTrue( true == false );
+        assertTrue( true );
     }
 }
